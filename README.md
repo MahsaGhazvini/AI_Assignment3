@@ -1,4 +1,4 @@
-**AI_Assignment3**
+**Regression**
 > part1) Simple Linear Regression <br />
 > part2) Multivariate Linear Regression <br />
 > part3) Logistic Regression <br />
